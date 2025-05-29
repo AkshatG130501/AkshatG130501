@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://superdevology.hashnode.dev/](https://superdevology.hashnode.dev/)
 
-- 💬 Ask me about **react,next.js,node.js,javascript,typescript,html,css,graphQL,C++,react-native**
+- 💬 Ask me about **React, Next.js, Node.js, Javascript, Typescript, Html, CSS, GraphQL, C++, React-Native**
 
 - 📫 How to reach me **guptaakshat370@gmail.com**
 
@@ -19,7 +19,6 @@
 <p align="left">
 <a href="https://twitter.com/akshatg47815089" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshatg47815089" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akshat-gupta-b8a074204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshat-gupta-b8a074204/" height="30" width="40" /></a>
-<a href="https://hashnode.com/@aksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@aksha" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/guptaakshat_1305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="guptaakshat_1305" height="30" width="40" /></a>
 </p>
 
